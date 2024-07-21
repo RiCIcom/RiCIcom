@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraujulian&label=Profile%20views&color=0e75b6&style=flat" alt="fraujulian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricicom&label=Profile%20views&color=0e75b6&style=flat" alt="ricicom" /> </p>
 
 <br>
 
