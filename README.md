@@ -21,7 +21,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow,cloudflare,vscode,idea,git,nginx,docker,raspberrypi,linux,ubuntu"> 
 <br>
-<img src="https://skillicons.dev/icons?i=js,Lua,html,css,nodejs,pug,discordjs,dotnet,cs,mysql"/> <br>
+<img src="https://skillicons.dev/icons?i=js,lua,html,css,nodejs,pug,discordjs,dotnet,cs,mysql"/> <br>
 </div>
 <h2 align="center">📊 Stats 📊</h2>
 <div align="center">
