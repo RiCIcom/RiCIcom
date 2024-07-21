@@ -1,16 +1,40 @@
-## Hi there 👋
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<!--
-**RiCIcom/RiCIcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hy! 👋 I'm Richard Bruckner</h1>
+<h3 align="center">A young enthusiastic developer from Austria!</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraujulian&label=Profile%20views&color=0e75b6&style=flat" alt="fraujulian" /> </p>
+
+<br>
+
+- 🔭 I’m currently working on [Codegamerhub](https://odegamerhub.at/)
+- 🔭 I’m currently working on [Helper Buddy](https://discord.gg/7JUyTcn3zf)
+- 🌱 I’m currently learning **LUA** and **C#**
+
+<br>
+
+
+<h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
+<div align="center">
+<br>
+<img src="https://skillicons.dev/icons?i=discord,github,stackoverflow,cloudflare,vscode,idea,git,nginx,docker,raspberrypi,linux,ubuntu"> 
+<br>
+<img src="https://skillicons.dev/icons?i=js,Lua,html,css,nodejs,pug,discordjs,dotnet,cs,mysql"/> <br>
+</div>
+<h2 align="center">📊 Stats 📊</h2>
+<div align="center">
+
+<br>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricicom&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RiCIcom" /></p>
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ricicom&show_icons=true&locale=en&theme=tokyonight" alt="RiCIcom" /></p>
+<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricicom&&theme=tokyonight" alt="fraujulian" /></p>
+</div>
+
+<br>
+
+<h3 align="center">You can find my contact information on<a href="https://www.fraujulian.xyz/"> my portfolio website</a>!</h2>
