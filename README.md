@@ -37,4 +37,4 @@
 
 <br>
 
-<h3 align="center">You can find my contact information on<a href="https://www.fraujulian.xyz/"> my portfolio website</a>!</h2>
+<h3 align="center">You can find my contact information on<a href="https://www.codegamerhub.at"> my portfolio website</a>!</h2>
