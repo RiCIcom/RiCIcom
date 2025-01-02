@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <div align="center">
-  <img src="https://imgur.com/a/zufbjG3" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="https://drive.google.com/file/d/18eyqBd5Y_39kSae9_yKkZOksQPF3Fb7H/view?usp=sharing3" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm <span style="color: #00AEEF;">Richard Bruckner</span></h1>
