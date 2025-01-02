@@ -9,7 +9,6 @@
 
 <br>
 
-- 🔭 I’m currently working on [Codegamerhub](https://odegamerhub.at/)
 - 🔭 I’m currently working on [Lua Booster](https://luabooster.com)
 - 🌱 I’m currently learning **LUA** and **C#**
 
