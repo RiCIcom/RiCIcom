@@ -1,9 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<div align="center">
-  <img src="https://www.google.com/imgres?q=4k%20Images%20Background%20copyright%20banners&imgurl=https%3A%2F%2Fimg.lovepik.com%2Fbackground%2F20211021%2Flarge%2Flovepik-cool-geometric-background-of-banner-technology-image_500522866.jpg&imgrefurl=https%3A%2F%2Flovepik.com%2Fimage-500522866%2Fcool-geometric-background-of-banner-technology.html&docid=j5ykUsQfgB9uzM&tbnid=NWu8rx9jJWOyxM&vet=12ahUKEwidyr2-pdeKAxV5zgIHHViEAD4QM3oECEoQAA..i&w=1200&h=514&hcb=2&ved=2ahUKEwidyr2-pdeKAxV5zgIHHViEAD4QM3oECEoQAA" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
-</div>
-
 <h1 align="center">Hi there! 👋 I'm <span style="color: #00AEEF;">Richard Bruckner</span></h1>
 <h3 align="center">A passionate developer from Austria 🇦🇹</h3>
 
